@@ -7,7 +7,7 @@
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-s369/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/ss-369)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/shiva-s936)  
 
 ---
 
@@ -31,20 +31,20 @@
 
 ---
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ss-369&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ss-369&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ss-369&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shiva-s936&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shiva-s936&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-s936&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ss-369&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shiva-s936&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 # 🌟 Profile Highlights  
-- ⭐ Stars: [![GitHub stars](https://img.shields.io/github/stars/ss-369?style=social)](https://github.com/ss-369?tab=repositories)  
-- 👁️ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=ss-369&label=Profile%20Views&color=blue&style=flat)  
+- ⭐ Stars: [![GitHub stars](https://img.shields.io/github/stars/shiva-s936?style=social)](https://github.com/shiva-s936?tab=repositories)  
+- 👁️ Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=shiva-s936&label=Profile%20Views&color=blue&style=flat)  
 - ⏳ Contributions Graph:  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ss-369&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiva-s936&theme=radical)  
 
 ---
