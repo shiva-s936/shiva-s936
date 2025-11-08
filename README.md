@@ -1,7 +1,6 @@
 # 💫 About Me  
 🎓 M.Tech in Computer Science & Information Security @ IIIT Hyderabad (2025)  
 💻 Interests: Machine Learning, NLP, Computer Vision, and Software Development  
-📚 Always learning, building, and exploring AI-driven solutions  
 
 ---
 
