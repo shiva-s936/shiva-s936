@@ -1,7 +1,9 @@
 # Hi, I'm Shiva 👋
-
-🎓 M.Tech in Computer Science & Information Security — IIIT Hyderabad (2025)  
-💡 Interests: Machine Learning, NLP, Computer Vision, and Software Development
+ 
+🎓 M.Tech in Computer Science & Information Security — **IIIT Hyderabad** (2025)  
+🤖 Passionate about **Machine Learning · NLP · Computer Vision**  
+🔍 Actively looking for **full-time ML/AI roles**  
+📍 Based in Hyderabad, India · Open to remote & relocation
 
 ---
 
